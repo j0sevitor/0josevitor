@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0josevitor
+- 👋 Hi, I’m @j0sevitor
 - 👀 I’m interested in technology and Software development.
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
